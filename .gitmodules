@@ -1,0 +1,6 @@
+[submodule "FINAL PROJECT/fp-web-be"]
+	path = FINAL PROJECT/fp-web-be
+	url = https://github.com/madya-dev/fp-web-be
+[submodule "FINAL PROJECT/fp-web-fe"]
+	path = FINAL PROJECT/fp-web-fe
+	url = https://github.com/madya-dev/fp-web-fe
